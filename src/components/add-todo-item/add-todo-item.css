@@ -1,0 +1,8 @@
+.form-control {
+  height: calc(2.25em + .75rem + 2px);
+}
+
+.label {
+  display: flex;
+  margin-bottom: 0;
+}
